@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Fletch_Flee">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Fletch_Flee.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

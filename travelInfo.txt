@@ -1,0 +1,14 @@
+Issue Date = 22-FEBRUARY-2024
+Issue Time = 2:2
+
+                        Name                      
+                        Travel Date               
+                        Starting From             
+                        Destination               
+                        Train Name                
+                        Number of Passenger             
+                        Seats                     
+                        Travel Time               
+                        Train Class               
+                        Cost                      
+                        AC/Non-AC                 null
