@@ -70,7 +70,7 @@ git clone https://github.com/yaarian-om/Fletch-Flee
 
 <p align="center"><img src="https://img.shields.io/badge/License-MIT-black"/></p>
 
-Released under [MIT](/LICENSE) by [@yaarian-om](https://github.com/yaarian-om).
+Released under [MIT](/LICENSE) by [@the-sudipta](https://github.com/the-sudipta).
 
 
 
