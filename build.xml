@@ -15,6 +15,9 @@
     <property name="javac.source" value="16"/>
     <property name="javac.target" value="16"/>
 
+    <!-- Explicitly set Javadoc version -->
+    <property name="javadoc.target" value="16"/>
+
     <!-- Your custom targets go here -->
     <target name="compile" depends="init">
         <mkdir dir="${build.dir}"/>
