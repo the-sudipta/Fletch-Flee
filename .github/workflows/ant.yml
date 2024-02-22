@@ -1,0 +1,22 @@
+name: Java CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up JDK
+      uses: actions/setup-java@v3
+      with:
+        java-version: '20.0.2'  # Specify the version of Java to use
+        distribution: 'adopt'   # Assuming 'adopt' distribution for OpenJDK
+    - name: Build with Ant
+      run: ant -noinput -buildfile build.xml
