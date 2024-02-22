@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/yaarian-om/SERVER/4fb4a7805f1aeb0dced3a5a0548905b94740c916/1010110010/FLETCH_FLEE/FLETCH_FLEE.svg" alt="FLETCH-FLEE" width="100%" height="240"/>
+ <img src="https://raw.githubusercontent.com/the-sudipta/Fletch-Flee/f8db14441a44dc6415acec4d2533f6e4e819d1b3/repo_images/FLETCH_FLEE.svg" alt="FLETCH-FLEE" width="100%" height="240"/>
 
  <p align="center">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=3D3C42"alt="Windows"/> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MAC-OS">
@@ -21,7 +21,7 @@ This is a demo software that will show you how easily, a receptionist on train t
 
  <p align="center">
     <br/><br/>
-    <img src="https://raw.githubusercontent.com/yaarian-om/SERVER/main/1010110010/FLETCH_FLEE/Fletch_Flee_How_To_Use.gif" alt="How To Use" width="60%" height="250"/>
+    <img src="https://raw.githubusercontent.com/the-sudipta/Fletch-Flee/main/repo_images/Fletch_Flee_How_To_Use.gif" alt="How To Use" width="60%" height="250"/>
  </p>
 
 <p>
@@ -34,15 +34,15 @@ This is a demo software that will show you how easily, a receptionist on train t
    - To download all the software please write in the CMD
 
 ```dotnetcli
-git clone https://github.com/yaarian-om/Fletch-Flee
+git clone https://github.com/the-sudipta/Fletch-Flee
 ```
 <p align="center">
-    <img src="https://raw.githubusercontent.com/yaarian-om/SERVER/ddb40db50ccc0ad62b4cef3d19c4c0a7518e711b/1010110010/FLETCH_FLEE/Fletch_Flee_Cloning.svg" alt="Fletch-Flee Clone" width="80%" height="250" alt="Clone Result"/>
+    <img src="https://raw.githubusercontent.com/the-sudipta/Fletch-Flee/f8db14441a44dc6415acec4d2533f6e4e819d1b3/repo_images/Fletch_Flee_Cloning.svg" width="80%" height="250" alt="Clone Result"/>
 </p>
 
   -  To download manually, press download from Code, showing below
 <p align="center">
-    <img src="https://raw.githubusercontent.com/yaarian-om/SERVER/main/1010110010/FLETCH_FLEE/Fletch-Flee%20download.png" alt="Fletch-Flee Manual Download" width="50%" height="250"/>
+    <img src="https://raw.githubusercontent.com/the-sudipta/Fletch-Flee/main/repo_images/Fletch-Flee%20download.png" alt="Fletch-Flee Manual Download" width="50%" height="250"/>
 </p>
 
 
