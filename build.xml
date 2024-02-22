@@ -12,6 +12,10 @@
     <import file="nbproject/build-impl.xml"/>
 
     <!-- Your custom targets go here -->
+    <property name="javac.source" value="16"/>
+    <property name="javac.target" value="16"/>
+
+    <!-- Your custom targets go here -->
     <target name="compile" depends="init">
         <mkdir dir="${build.dir}"/>
         <javac srcdir="${src.dir}" destdir="${build.dir}"/>
